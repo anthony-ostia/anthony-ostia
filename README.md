@@ -19,9 +19,13 @@ Full Stack Software Engineer with four years of experience building responsive w
 ![Docker](https://img.shields.io/badge/Docker-257BD6?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
+![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor)
 
 ## Supporting Tools
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
 ![Ruby](https://img.shields.io/badge/Ruby-CC0000.svg?&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000.svg?logo=ruby-on-rails&logoColor=white)
