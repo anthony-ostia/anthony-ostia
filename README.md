@@ -18,6 +18,7 @@ Full Stack Software Engineer with four years of experience building responsive w
 ## Supporting Tools
 ![Ruby](https://img.shields.io/badge/Ruby-CC0000.svg?&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000.svg?logo=ruby-on-rails&logoColor=white)
+![FastAPI](https://shields.io/badge/FastAPI-009485?logo=fastapi&logoColor=FFF)
 ![Python](https://shields.io/badge/Python-3776AB?logo=Python&logoColor=FFF)
 ![Rust](https://img.shields.io/badge/Rust-FFFFFF.svg?&logo=rust&logoColor=black)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff)
